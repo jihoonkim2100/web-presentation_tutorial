@@ -1,4 +1,4 @@
-# web-presentation
+# web-presentation_tutorial
 
 Project is designed to quickly build presentation as a web page.
 
@@ -20,4 +20,5 @@ presentation example https://deepidea.github.io/web-presentation/
 - GitHub Pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
 
 
-Enjoy
+# practice log
+
